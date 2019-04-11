@@ -10,6 +10,5 @@
 		"zip": "19103",
 		"country": "USA"
 	},
-	"languages" : ["Java", "C#", "Python", "Javascript"],
-	"company" : "Acme"
+	"languages" : ["Java", "C#", "Python", "Javascript"]
 }
